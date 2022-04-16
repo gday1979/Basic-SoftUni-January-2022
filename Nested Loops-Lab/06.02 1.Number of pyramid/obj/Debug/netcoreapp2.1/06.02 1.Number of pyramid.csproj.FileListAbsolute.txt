@@ -1,0 +1,13 @@
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\bin\Debug\netcoreapp2.1\06.02 1.Number of pyramid.deps.json
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\bin\Debug\netcoreapp2.1\06.02 1.Number of pyramid.runtimeconfig.json
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\bin\Debug\netcoreapp2.1\06.02 1.Number of pyramid.runtimeconfig.dev.json
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\bin\Debug\netcoreapp2.1\06.02 1.Number of pyramid.dll
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\bin\Debug\netcoreapp2.1\06.02 1.Number of pyramid.pdb
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.csproj.AssemblyReference.cache
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.AssemblyInfoInputs.cache
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.AssemblyInfo.cs
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.csproj.CoreCompileInputs.cache
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.dll
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.pdb
+C:\Users\gday1\source\repos\Nested Loops-Lab\06.02 1.Number of pyramid\obj\Debug\netcoreapp2.1\06.02 1.Number of pyramid.genruntimeconfig.cache

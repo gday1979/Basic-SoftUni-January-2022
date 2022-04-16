@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2CIAwW4ZxqmY5o9IohJ37eb4wo0Tc85Ipu7PZGRZzm8ogCbH6Uu3g9O4Pqu0GSVTF9p+k71yMliqxZyG0CaVtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gday1\\source\\repos\\Nested Loops-Lab\\06.02 1.Number of pyramid\\06.02 1.Number of pyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
