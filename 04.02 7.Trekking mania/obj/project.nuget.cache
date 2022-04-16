@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Mjto0sYBbPCfw8zBmnTg88zjlR4YNmObkMSQ88V/NMviEH3yLTWZPBmwO8+yR+iZeAMJwy769hLZhq0V1nn1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gday1\\source\\repos\\lesson 4 answaer 8\\04.02 7.Trekking mania\\04.02 7.Trekking mania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

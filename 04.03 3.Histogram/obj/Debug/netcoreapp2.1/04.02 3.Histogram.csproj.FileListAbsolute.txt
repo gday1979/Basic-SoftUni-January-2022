@@ -1,0 +1,13 @@
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\bin\Debug\netcoreapp2.1\04.02 3.Histogram.deps.json
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\bin\Debug\netcoreapp2.1\04.02 3.Histogram.runtimeconfig.json
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\bin\Debug\netcoreapp2.1\04.02 3.Histogram.runtimeconfig.dev.json
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\bin\Debug\netcoreapp2.1\04.02 3.Histogram.dll
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\bin\Debug\netcoreapp2.1\04.02 3.Histogram.pdb
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.csproj.AssemblyReference.cache
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.AssemblyInfoInputs.cache
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.AssemblyInfo.cs
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.dll
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.pdb
+C:\Users\gday1\source\repos\lesson 4 answaer 8\04.03 3.Histogram\obj\Debug\netcoreapp2.1\04.02 3.Histogram.genruntimeconfig.cache

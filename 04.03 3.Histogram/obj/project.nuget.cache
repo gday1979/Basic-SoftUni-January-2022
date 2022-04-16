@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1fJuMD0RDH937OYnIeR1dy9p+9Uk0l2RAmza/HE/yJV8s7AW1v/ibYfgmK73LbezDH2Tac/jk1Q3vrTIApYvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gday1\\source\\repos\\lesson 4 answaer 8\\04.03 3.Histogram\\04.02 3.Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gday1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
